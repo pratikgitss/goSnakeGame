@@ -1,0 +1,42 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.out
+*.test
+
+# Output of `go build`
+snake
+snakeGame
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# Go-related
+/go.sum
+/go.mod
+
+# Cache
+*.log
+*.tmp
+
+# Test data
+*.coverprofile
+*.testresult
+
+# Dependency directories (if using vendoring)
+vendor/
+
+# Temporary files
+*.tmp
+*.temp
