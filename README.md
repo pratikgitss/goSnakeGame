@@ -20,7 +20,7 @@ A classic Snake game implementation built with Go and the Ebiten game engine.
 1. Clone this repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/pratikgitss/goSnakeGame.git
 cd snake-game
 ```
 
